@@ -42,8 +42,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bharat-dangi-05818a188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bharatdangi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/bharatdangi1511/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bharatdangi1511__-blue?style=flat-square&logo=instagram"></a>
-<a href="bharatdangi2074@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bharatdangi1511@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/bharatdangi1511/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bharatdangi1511-blue?style=flat-square&logo=instagram"></a>
+<a href="bharatdangi2074@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bharatdangi2074@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [BHARAT DANGI](https://github.com/bharatdangi2074)
