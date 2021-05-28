@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Advanced College of Engineering and Management .
-- 🌱 &nbsp; Learning more about MERN stack.
+- 🌱 &nbsp; Learning more about web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
