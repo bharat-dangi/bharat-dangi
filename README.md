@@ -1,49 +1,34 @@
-<h2> Hey there! I'm Bharat.</h2>
+<h1 align="center">Hi 👋, I'm Bharat Dangi</h1>
+<h3 align="center">A passionate full stack developer from Nepal and last year Computer Engineering Student</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatdangi2074&label=Profile%20views&color=0e75b6&style=flat" alt="bharatdangi2074" /> </p>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering at Advanced College of Engineering and Management .
-- 🌱 &nbsp; Learning more about web development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatdangi2074" alt="bharatdangi2074" /></a> </p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🔭 I’m currently working on [MERN Social Media Application](https://github.com/bharatdangi2074/MERN_SOCIAL_MEDIA_APPLICATION)
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
-<br/>
+- 👨‍💻 All about me is at [https://bharatdangi.com.np/](https://bharatdangi.com.np/)
 
-<a href="https://github.com/bharatdangi2074">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bharatdangi2074&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatdangi2074&theme=buefy&layout=compact" />
-</a>
+- 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript**
 
-<br/>
+- 📫 How to reach me: **bharatdangi2074@gmail.com**
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+- 📄 Know about my experiences at [https://bharatdangi.com.np/](https://bharatdangi.com.np/)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/bharat-dangi-05818a188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bharatdangi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/bharatdangi1511/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bharatdangi1511-blue?style=flat-square&logo=instagram"></a>
-<a href="bharatdangi2074@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bharatdangi2074@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bharat-dangi-05818a188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-dangi-05818a188" height="30" width="40" /></a>
+<a href="https://fb.com/bharat.dangi.5070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharat.dangi.5070" height="30" width="40" /></a>
+<a href="https://instagram.com/bharatdangi1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharatdangi1511" height="30" width="40" /></a>
 </p>
 
-⭐️ From [BHARAT DANGI](https://github.com/bharatdangi2074)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatdangi2074&show_icons=true&locale=en&layout=compact" alt="bharatdangi2074" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatdangi2074&show_icons=true&locale=en" alt="bharatdangi2074" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatdangi2074&" alt="bharatdangi2074" /></p>
