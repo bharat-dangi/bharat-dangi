@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatdangi2074" alt="bharatdangi2074" /></a> </p>
 
-- 🔭 I’m currently working on **[MERN Social Media Application](https://github.com/bharatdangi2074/MERN_SOCIAL_MEDIA_APPLICATION)
+- 🔭 I’m currently working on **[MERN Social Media Application]**(https://github.com/bharatdangi2074/MERN_SOCIAL_MEDIA_APPLICATION)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 - 👨‍💻 All about me is at [My Website](https://bharatdangi.com.np/)
@@ -33,6 +33,7 @@
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuffs and Web Application developement!"</code> :grin:
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to have conversation with you!</b> 😊</em>
 
 
