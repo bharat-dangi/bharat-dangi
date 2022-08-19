@@ -1,7 +1,8 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Bharat Dangi</h1>
-<h3 align="center">A passionate full stack developer from Nepal and last year Computer Engineering Student</h3>
+<h3 align="center">A dynamic, hands-on, detail-oriented, and highly analytical full Stack Web Developer specialized in
+building enterprise-level applications that involve databases, complex business logic, and user interfaces.</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://bharatdangi.com.np/):sparkles:
 
