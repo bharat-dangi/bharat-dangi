@@ -11,12 +11,12 @@ building enterprise-level applications that involve databases, complex business 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi" alt="bharat-dangi" /></a> </p>
 
-- 🔭 I’m currently working on **[MERN Social Media Application]**(https://github.com/bharatdangi2074/MERN_SOCIAL_MEDIA_APPLICATION)
+- 🔭 I’m currently working on **[Port Pro Pvt. Ltd.]**(https://portpro.io/) as a MERN Developer.
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, HapiJS, TypeScript**
 - 👨‍💻 All about me is at [My Website](https://bharatdangi.com.np/)
 
-- 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development**
+- 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development, Redis**
 
 - 📫 How to reach me: **bharatdangi2074@gmail.com**
 
