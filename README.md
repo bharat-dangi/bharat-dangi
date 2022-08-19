@@ -7,9 +7,9 @@ building enterprise-level applications that involve databases, complex business 
 ### Wanna stalk my website:question::point_right: [Click Here](https://bharatdangi.com.np/):sparkles:
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatdangi2074&label=Profile%20views&color=0e75b6&style=flat" alt="bharatdangi2074" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-dangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatdangi2074" alt="bharatdangi2074" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi" alt="bharat-dangi" /></a> </p>
 
 - 🔭 I’m currently working on **[MERN Social Media Application]**(https://github.com/bharatdangi2074/MERN_SOCIAL_MEDIA_APPLICATION)
 
