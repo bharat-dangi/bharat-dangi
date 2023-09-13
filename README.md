@@ -1,4 +1,4 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Bharat Dangi</h1>
 <h3 align="center">A dynamic, hands-on, detail-oriented, and highly analytical full Stack Web Developer specialized in
