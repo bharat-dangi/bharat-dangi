@@ -1,15 +1,13 @@
-## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
 <h1 align="center">Hi 👋, I'm Bharat Dangi</h1>
 <h3 align="center">A dynamic, hands-on, detail-oriented, and highly analytical Full Stack Web Developer specialising in building enterprise-level applications that involve databases, complex business logic, and user interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-dangi" /> </p>
 
-<p align="left"> 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15" alt="bharat-dangi" />
-  </a> 
-</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15&column=7&no-frame=true" alt="bharat-dangi" />
+  </a>
+</div>
 
 - 🔭 I previously worked as a Senior Software Engineer at [Port Pro Pvt. Ltd](https://portpro.io).
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development, Redis**.
