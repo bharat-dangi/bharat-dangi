@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-dangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15" alt="bharat-dangi" mb="2" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15" alt="bharat-dangi" />
+  </a> 
+</p>
 
 - 🔭 I previously worked as a Senior Software Engineer at [Port Pro Pvt. Ltd](https://portpro.io).
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development, Redis**.
@@ -26,9 +30,6 @@ I'm deeply interested in optimising backend systems and designing better backend
   </a>
 </p>
 <p align="left"><a href="https://www.linkedin.com/in/bharatdangi" target="blank">LinkedIn Profile</a></p>
-
-### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much Web Application development stuff!"</code> :grin:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to have a conversation with you!</b> 😊</em>
 
