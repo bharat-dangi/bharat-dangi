@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-dangi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15" alt="bharat-dangi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15" alt="bharat-dangi" mb="2" /></a> </p>
 
 - 🔭 I previously worked as a Senior Software Engineer at [Port Pro Pvt. Ltd](https://portpro.io).
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3, JavaScript, Web Development, Redis**.
 - 📫 How to reach me: **bharatdangi1511@gmail.com**.
 
 ### Current Interests
-I'm deeply interested in exploring full stack development, application performance optimisation, and artificial intelligence (AI). Currently, I'm focusing on Partial Prerendering in Next.js to optimise web applications for faster load times and better SEO performance. This involves diving deep into static and server-side rendering strategies to enhance user experience.
+I'm deeply interested in optimising backend systems and designing better backend applications. Currently, I'm focusing on enhancing backend performance and scalability by diving deep into advanced backend architectures, improving database interactions, and implementing efficient design patterns to build robust and maintainable systems.
 
 ### Skills
 - **Languages & Frameworks:** NodeJS, ExpressJS, ReactJS, TypeScript, JavaScript, HTML/CSS
