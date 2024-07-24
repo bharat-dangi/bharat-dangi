@@ -4,8 +4,6 @@
 <h3 align="center">A dynamic, hands-on, detail-oriented, and highly analytical full Stack Web Developer specialized in
 building enterprise-level applications that involve databases, complex business logic, and user interfaces.</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://bharatdangi.com.np/):sparkles:
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-dangi" /> </p>
 
