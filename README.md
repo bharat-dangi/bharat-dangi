@@ -5,7 +5,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15&column=7&no-frame=true" alt="bharat-dangi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&margin-w=15&margin-h=5&column=7&no-frame=true" alt="bharat-dangi" />
   </a>
 </div>
 
