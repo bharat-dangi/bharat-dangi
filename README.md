@@ -33,6 +33,4 @@ I'm deeply interested in optimising backend systems and designing better backend
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat-dangi&show_icons=true&locale=en&layout=compact" alt="bharat-dangi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&locale=en" alt="bharat-dangi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-dangi&" alt="bharat-dangi" /></p>
