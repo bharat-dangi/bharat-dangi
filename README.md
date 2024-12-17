@@ -31,6 +31,5 @@ I'm deeply interested in optimising backend systems and designing better backend
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to have a conversation with you!</b> 😊</em>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat-dangi&show_icons=true&locale=en&layout=compact" alt="bharat-dangi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-dangi&" alt="bharat-dangi" /></p>
