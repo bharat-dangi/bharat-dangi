@@ -168,17 +168,7 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 </tr>
 </table>
 
----
 
-<!-- ════════════════════════════════════════════════ STATS ══ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444444&bg_color=ffffff&cache_seconds=86400" />&ensp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444444&bg_color=ffffff&langs_count=8&cache_seconds=86400" />
-
-</div>
 
 ---
 
@@ -188,27 +178,7 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 <div align="center">
 
-<!-- Streak card: shows total contributions, current + longest streak with exact dates -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=dddddd&dates=888888&background=ffffff&sideLabels=0e75b6&currStreakNum=222222&sideNums=222222" />
-
-</div>
-
-<br/>
-
-### Contributions by Year
-
-<div align="center">
-
-| Year | Period | Highlights |
-|:----:|:------:|:-----------|
-| 🟢 **2026** | Jan – Present | Arrow Transport · MSc AI projects · Freelance |
-| 🟢 **2025** | Jan – Dec | OneStop API Suite · Kendo/AG Grid upgrades · Produce.so |
-| 🟢 **2024** | Jan – Dec | Memory Companion Agent · Voice AI MVP · .NET Core migrations |
-| 🟡 **2023** | Jan – Dec | Produce.so SaaS build · BullMQ pipelines · GPU infra |
-| 🟡 **2022** | Jan – Dec | Port Pro microservices · Container tracking · Mapbox optimisation |
-| 🔵 **2021** | Jan – Dec | Early career · logistics platforms · full-stack foundations |
-
-> 📊 **7,222 total contributions** since Sep 2020 · **56-day longest streak** (Apr–Jun 2024)
+<img width="72%" src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=0e75b6&dates=888&background=ffffff&sideLabels=0e75b6&currStreakNum=222222&sideNums=222222" />
 
 </div>
 
