@@ -12,17 +12,28 @@
 
 <!-- ════════════════════════════════════════════════ INTRO ══ -->
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bharat-dangi&hide_border=true&title_color=0e75b6&icon_color=0e75b6&layout=compact" />
+<table>
+<tr>
+<td valign="top" width="58%">
 
-### I build systems that scale — from enterprise logistics APIs to AI agents that reason and remember.
+## I build systems that scale — from enterprise logistics APIs to AI agents that reason and remember.
 
-I'm a **Senior Software Engineer** based in Sydney with a decade-deep focus on **backend architecture, full-stack delivery, and applied AI**. Day to day, I'm at Arrow Transport Logistics leading complex platform migrations and performance engineering. On the side, I ship AI-powered SaaS products and freelance on Upwork with a **100% Job Success Score**.
+I'm a **Senior Software Engineer** based in **Sydney, Australia 🇦🇺** with deep expertise in **backend architecture, full-stack delivery, and applied AI**. Day to day I'm at Arrow Transport Logistics leading platform migrations and performance engineering. On the side I ship AI-powered SaaS products and freelance on Upwork with a **100% Job Success Score**.
 
-What drives me: turning messy, expensive, hard-to-change systems into something clean, fast, and maintainable. Whether that's cutting an API bill by **87.5%**, migrating a legacy CSV integration to a proper OAuth2/REST architecture, or building a GPU video pipeline from scratch — I care about the craft.
+What drives me: turning messy, expensive, hard-to-maintain systems into something clean, fast, and elegant. Whether that's slashing an API bill by **87.5%**, rearchitecting a legacy CSV integration into a proper OAuth2/REST platform, or building a GPU video pipeline from scratch — I care about the craft.
 
-Currently pursuing an **MSc in IT (AI Specialisation)** — pushing further into LLMs, multi-agent systems, and vector-search-driven memory architectures.
+Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, multi-agent systems, and vector-search-driven memory architectures.
 
-<br clear="right"/>
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444&bg_color=ffffff&rank_icon=github" />
+
+<img src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=0e75b6&dates=888&background=ffffff" />
+
+</td>
+</tr>
+</table>
 
 <!-- BADGE ROW -->
 <div align="center">
@@ -168,14 +179,8 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — pushing further into
 <div align="center">
 
 <a href="https://github.com/bharat-dangi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444&bg_color=ffffff" />
-</a>&ensp;<a href="https://github.com/bharat-dangi">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=8" />
 </a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=0e75b6&dates=888&background=ffffff" />
 
 </div>
 
@@ -183,16 +188,29 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — pushing further into
 
 <!-- ════════════════════════════════════════════ CONTRIBUTION GRAPH ══ -->
 
-## 📈 Contribution Overview
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!-- Full-width profile timeline card — most reliable contribution visual -->
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharat-dangi&theme=github" />
+<!-- ── Activity Graph: last 12 months ── -->
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=ffffff&color=0e75b6&line=0e75b6&point=FF6B35&area=true&area_color=0e75b6&hide_border=true&custom_title=Bharat%27s%20Contribution%20Activity" />
+
+<br/><br/>
+
+<!-- ── Year-by-year contribution heatmaps ── -->
+
+**2026**
+<img width="97%" src="https://ghchart.rshah.org/0e75b6/bharat-dangi" />
+
+**2025**
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=f6f8fa&color=0e75b6&line=21D4FD&point=0e75b6&area=true&area_color=21D4FD&hide_border=true&custom_title=2025&from=2025-01-01&to=2025-12-31" />
+
+**2024**
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=f6f8fa&color=0e75b6&line=21D4FD&point=0e75b6&area=true&area_color=21D4FD&hide_border=true&custom_title=2024&from=2024-01-01&to=2024-12-31" />
 
 <br/>
 
-<!-- Four-card summary grid -->
+<!-- ── Summary cards grid ── -->
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharat-dangi&theme=github&utcOffset=10" />
 
 </div>
