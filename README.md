@@ -182,53 +182,6 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 </div>
 
-
-
-<!-- ════════════════════════════════════════════════ SNAKE ══ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<details>
-<summary>⚙️ Enable the snake — 5-minute setup</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Snake Animation
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 <!-- ════════════════════════════════════════════════ EXPLORE ══ -->
 
 ## 🌱 Currently Exploring
