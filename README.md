@@ -1,127 +1,117 @@
-<!-- ═══════════════════════════════════════════════════════════ HEADER ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharat%20Dangi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Builder&descAlignY=55&descSize=16" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharat%20Dangi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%94%20Sydney%2C%20Australia%20%F0%9F%87%A6%F0%9F%87%BA&descAlignY=58&descSize=17" />
 
-<!-- ══════════════════════════════════════════════════════ TYPING SVG ══ -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=false&width=650&lines=TypeScript+%7C+C%23+%7C+Python+%7C+Node.js+%7C+React+%7C+.NET+Core;Distributed+Systems+%E2%80%94+Cloud+Architecture+%E2%80%94+AI+Engineering;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════ BADGES ══ -->
-
-[![Profile Views](https://komarev.com/ghpvc/?username=bharat-dangi&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/bharat-dangi)&ensp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatdangi)&ensp;[![Upwork](https://img.shields.io/badge/-Upwork%20100%25%20JSS-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bharatdangi)&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatdangi1511@gmail.com)&ensp;[![GitHub](https://img.shields.io/github/followers/bharat-dangi?label=Follow&style=flat-square&logo=github)](https://github.com/bharat-dangi)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Distributed+Systems+%C2%B7+Cloud+Architecture+%C2%B7+AI+Engineering;TypeScript+%C2%B7+C%23+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+Core;Building+enterprise+systems+that+actually+scale+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════ ABOUT ME ══ -->
+---
 
-## 🧑‍💻 About Me
+<!-- ════════════════════════════════════════════════ INTRO ══ -->
 
-```typescript
-const bharat: SoftwareEngineer = {
-  location:    "Sydney, Australia 🇦🇺",
-  role:        "Senior Software Engineer @ Arrow Transport Logistics",
-  education:   "MSc Information Technology — AI Specialisation",
-  freelancing: "Upwork Top-Rated · 100% Job Success Score",
-  interests:   ["Distributed Systems", "Agentic AI", "Backend Performance", "Cloud Architecture"],
-  currentFocus: [
-    "LLM-powered multi-agent systems with LangGraph",
-    "High-throughput .NET Core + PostgreSQL architectures",
-    "GPU-accelerated AI video generation pipelines",
-  ],
-  motto: "Good software is built with empathy — for the user, the codebase, and the team.",
-};
-```
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bharat-dangi&hide_border=true&title_color=0e75b6&icon_color=0e75b6&layout=compact" />
 
-<br/>
+### I build systems that scale — from enterprise logistics APIs to AI agents that reason and remember.
 
-<!-- ═══════════════════════════════════════════════════ BY THE NUMBERS ══ -->
+I'm a **Senior Software Engineer** based in Sydney with a decade-deep focus on **backend architecture, full-stack delivery, and applied AI**. Day to day, I'm at Arrow Transport Logistics leading complex platform migrations and performance engineering. On the side, I ship AI-powered SaaS products and freelance on Upwork with a **100% Job Success Score**.
 
-## ⚡ By The Numbers
+What drives me: turning messy, expensive, hard-to-change systems into something clean, fast, and maintainable. Whether that's cutting an API bill by **87.5%**, migrating a legacy CSV integration to a proper OAuth2/REST architecture, or building a GPU video pipeline from scratch — I care about the craft.
 
+Currently pursuing an **MSc in IT (AI Specialisation)** — pushing further into LLMs, multi-agent systems, and vector-search-driven memory architectures.
+
+<br clear="right"/>
+
+<!-- BADGE ROW -->
 <div align="center">
 
-| 🏆 Metric | 📊 Result |
-|:---|:---|
-| 💰 API Cost Optimisation | Reduced Mapbox spend by **~87.5%** via intelligent caching & batching |
-| ✅ Freelance Success Rate | **100% Job Success Score** across all Upwork engagements |
-| 🏗️ Systems Migrated | Led legacy CSV/email → **REST/Webhook** enterprise migration at Arrow Transport |
-| 🤖 AI Projects Shipped | **2+** production AI systems (agentic memory assistant, AI video SaaS) |
-| ☁️ Cloud Platforms | Deployed and operated workloads on **AWS ECS, Lambda, S3, CloudWatch** |
-| 🎓 Academic Standing | Pursuing **MSc IT** with specialisation in Artificial Intelligence |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharatdangi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatdangi)&ensp;[![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/bharatdangi)&ensp;[![Email](https://img.shields.io/badge/Email-bharatdangi1511%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bharatdangi1511@gmail.com)&ensp;[![Views](https://komarev.com/ghpvc/?username=bharat-dangi&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/bharat-dangi)&ensp;[![Follow](https://img.shields.io/github/followers/bharat-dangi?style=flat-square&logo=github&label=Follow)](https://github.com/bharat-dangi)
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════ TECH STACK ══ -->
+<!-- ════════════════════════════════════════════════ IMPACT ══ -->
 
-## 🛠️ Technology Arsenal
+## ⚡ Impact at a Glance
 
 <div align="center">
 
-#### Languages
+|  | Achievement | Impact |
+|:---:|:---|:---|
+| 💰 | Cut **Mapbox API** spend at Port Pro | **~87.5% reduction** via batch geocoding & intelligent caching |
+| 🔄 | Led **OneStop API Suite** migration at Arrow Transport | Legacy CSV/email → REST/Webhook (OAuth2, .NET Core, PostgreSQL) |
+| 🎬 | Shipped **Produce.so** — AI video generation SaaS | GPU pipeline on AWS ECS · FFmpeg encoding · Stripe subscriptions |
+| 🧠 | Built **Memory Companion Agent** (MSc capstone) | LangGraph multi-agent system · semantic memory · real-time chat |
+| 🏅 | **Upwork freelancing** across AI, SaaS, and logistics | **100% Job Success Score** · end-to-end client delivery |
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════ STACK ══ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=ts,js,python,cs,html,css)](https://skillicons.dev)
 
-#### Frameworks & Runtimes
+**Frameworks & Runtimes**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,dotnet,express)](https://skillicons.dev)
 
-#### Databases & Messaging
+**Databases & Caching**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
 
-#### Cloud, DevOps & Tooling
+**Cloud, DevOps & Tooling**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux)](https://skillicons.dev)
 
 </div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════════ EXPERIENCE ══ -->
+<!-- ════════════════════════════════════════════════ EXPERIENCE ══ -->
 
-## 💼 Professional Timeline
+## 💼 Experience
 
 <div align="center">
 
-```
-2024 ─── Present  │  Senior Software Engineer  │  Arrow Transport Logistics & Quarantine Services
-                  │  → Led OneStop API Suite: legacy CSV/email → REST/Webhook (OAuth2, .NET Core, PostgreSQL)
-                  │  → Kendo React & AG Grid enterprise upgrades; LLBLGen ORM performance tuning
-                  │
-2022 ─── 2024     │  Senior Software Engineer  │  Port Pro
-                  │  → Cut Mapbox API costs 87.5% via batch geocoding & result caching
-                  │  → Container tracking platform: EDI integrations, microservices, real-time updates
-                  │
-Ongoing           │  Freelance Full-Stack Engineer  │  Upwork (100% JSS)
-                  │  → Voice AI receptionist MVP (Vapi + Cliniko, Node.js/TypeScript/Next.js)
-                  │  → End-to-end client delivery across AI, SaaS, and logistics domains
-```
+| Period | Role | Organisation |
+|:---|:---|:---|
+| 2024 – Present | Senior Software Engineer | Arrow Transport Logistics & Quarantine Services |
+| 2022 – 2024 | Senior Software Engineer | Port Pro |
+| Ongoing | Freelance Full-Stack Engineer | Upwork · Top-Rated · 100% JSS |
+| 2024 – Present | MSc IT (AI Specialisation) | Postgraduate Studies |
 
 </div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════ FEATURED WORK ══ -->
+<!-- ════════════════════════════════════════════════ PROJECTS ══ -->
 
 ## 🚀 Featured Projects
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Produce.so
+### 🎬 [Produce.so](https://produce.so)
 > *AI-powered YouTube content generation SaaS*
 
-**Stack:** `NestJS` `Next.js` `BullMQ` `FFmpeg` `AWS ECS` `Stripe` `OpenAI`
+`NestJS` `Next.js` `BullMQ` `FFmpeg` `AWS ECS` `Stripe` `OpenAI`
 
-- GPU worker pipeline on **AWS ECS + Vast.AI** for video rendering
-- Resolved FFmpeg flickering/freezing via frame-accurate encoding pipeline
-- Chunked **S3 multipart uploads** for ultra-long videos
-- Full **Stripe subscription + credit system** with webhook handling
-- Custom niche training from YouTube transcript embeddings
+- GPU worker pipeline across **AWS ECS & Vast.AI**
+- Fixed FFmpeg flickering/freezing via frame-accurate encoding
+- **S3 chunked multipart uploads** for ultra-large video files
+- Full Stripe subscription, credit & webhook payment system
+- AI niche training via YouTube transcript embeddings
 
 </td>
 <td width="50%" valign="top">
@@ -129,13 +119,13 @@ Ongoing           │  Freelance Full-Stack Engineer  │  Upwork (100% JSS)
 ### 🧠 Memory Companion Agent
 > *Agentic AI assistant with persistent long-term memory*
 
-**Stack:** `React` `FastAPI` `LangGraph` `Supabase` `OpenAI`
+`React` `FastAPI` `LangGraph` `Supabase` `OpenAI`
 
-- **LangGraph** multi-step agent orchestration with tool calling
+- **LangGraph** multi-step agent orchestration with tool-use
 - Semantic memory retrieval via vector similarity search
-- Real-time conversation state management with Supabase
-- Designed for MSc AI specialisation capstone — production-grade architecture
-- Full system diagrams: Gantt, WBS, C4 architecture
+- Real-time state management with Supabase subscriptions
+- MSc AI capstone — production-grade system architecture
+- Full C4 architecture, Gantt, WBS diagrams
 
 </td>
 </tr>
@@ -145,12 +135,12 @@ Ongoing           │  Freelance Full-Stack Engineer  │  Upwork (100% JSS)
 ### 🚢 OneStop API Suite
 > *Enterprise logistics API migration @ Arrow Transport*
 
-**Stack:** `C# .NET Core` `OAuth2/JWT` `React` `MobX` `PostgreSQL`
+`C# .NET Core` `OAuth2/JWT` `React/MobX` `PostgreSQL`
 
-- Architected full OAuth2 client credentials auth flow
-- Repository pattern service layer — zero business logic in controllers
-- React/MobX frontend stores with optimistic UI
-- PostgreSQL migrations + LLBLGen Pro ORM dynamic filtering/sorting
+- Designed full **OAuth2 client-credentials auth flow**
+- Repository pattern — zero business logic in controllers
+- React/MobX frontend stores with optimistic UI updates
+- PostgreSQL schema migrations + LLBLGen Pro ORM
 
 </td>
 <td width="50%" valign="top">
@@ -158,109 +148,90 @@ Ongoing           │  Freelance Full-Stack Engineer  │  Upwork (100% JSS)
 ### 📦 Container Tracking Platform
 > *Real-time logistics visibility @ Port Pro*
 
-**Stack:** `Node.js` `React` `PostgreSQL` `Mapbox` `EDI`
+`Node.js` `React` `PostgreSQL` `Mapbox` `EDI`
 
-- Reduced **Mapbox API cost by ~87.5%** through caching + batch strategies
-- Microservice-based container visibility with live port status
-- EDI integration layer for cross-system freight data exchange
-- Scalable multi-tenant architecture serving global logistics clients
+- Cut **Mapbox costs by ~87.5%** via caching & batching strategy
+- Microservice-based visibility with live port status feeds
+- EDI integration layer for cross-system freight data
+- Multi-tenant architecture for global logistics clients
 
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════ GITHUB STATS ══ -->
+<!-- ════════════════════════════════════════════════ STATS ══ -->
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/bharat-dangi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444444&bg_color=ffffff" />
-</a>
-<a href="https://github.com/bharat-dangi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444444&bg_color=ffffff&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444&bg_color=ffffff" />
+</a>&ensp;<a href="https://github.com/bharat-dangi">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=8" />
 </a>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=444444&dates=888888&background=ffffff" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=0e75b6&dates=888&background=ffffff" />
 
 </div>
 
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════ ACTIVITY GRAPH ══ -->
+<!-- ════════════════════════════════════════════ CONTRIBUTION GRAPH ══ -->
 
-## 📈 Contribution Activity
+## 📈 Contribution Overview
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&theme=minimal&hide_border=true&area=true&area_color=0e75b6&line=0e75b6&point=FF6B35&color=444444" alt="Contribution Graph" />
-</div>
+
+<!-- Full-width profile timeline card — most reliable contribution visual -->
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharat-dangi&theme=github" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ TROPHIES ══ -->
+<!-- Four-card summary grid -->
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharat-dangi&theme=github&utcOffset=10" />
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════ TROPHIES ══ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&no-frame=true&no-bg=true&margin-w=6&column=7&theme=flat&title_color=0e75b6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&no-frame=true&no-bg=true&margin-w=6&column=7&theme=flat" />
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════ CURRENTLY LEARNING ══ -->
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-| Area | Technologies |
-|:---|:---|
-| 🤖 Agentic AI | LangGraph · CrewAI · OpenAI Assistants API · Vector Stores |
-| ☁️ Cloud-Native | AWS Bedrock · ECS Fargate · Serverless Event Architectures |
-| 🏗️ Architecture | Event Sourcing · CQRS · Domain-Driven Design · Temporal.io |
-| 🧬 Data & ML | pgvector · Pinecone · RAG Pipelines · Fine-tuning LLMs |
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════ SNAKE ══ -->
+<!-- ════════════════════════════════════════════════ SNAKE ══ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation"
-      src="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/bharat-dangi/bharat-dangi/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <details>
-<summary>⚙️ How to enable the snake animation</summary>
+<summary>⚙️ Enable the snake — 5-minute setup</summary>
+<br/>
 
-1. Create a repo named exactly `bharat-dangi/bharat-dangi` (your profile repo)
-2. Add this GitHub Actions workflow at `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
-name: Generate Snake Animation
-
+name: Snake Animation
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -281,16 +252,32 @@ jobs:
 
 </details>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════ CONNECT ══ -->
+<!-- ════════════════════════════════════════════════ EXPLORE ══ -->
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| Domain | What I'm digging into |
+|:---|:---|
+| 🤖 Agentic AI | LangGraph · CrewAI · OpenAI Assistants API · Tool-calling patterns |
+| 🧬 AI Infra | pgvector · Pinecone · RAG pipelines · LLM fine-tuning |
+| ☁️ Cloud-Native | AWS Bedrock · ECS Fargate · Event-driven serverless |
+| 🏗️ Architecture | Event Sourcing · CQRS · DDD · Temporal.io workflow orchestration |
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════ CONNECT ══ -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-Whether it's a hard engineering problem, a freelance opportunity, or an interesting idea —
-I'm always open to a conversation.
+Hard engineering problems, interesting collaborations, freelance work — always open to a conversation.
 
 <br/>
 
@@ -302,6 +289,7 @@ I'm always open to a conversation.
 
 </div>
 
-<!-- ════════════════════════════════════════════════════ FOOTER ══ -->
 <br/>
+
+<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
