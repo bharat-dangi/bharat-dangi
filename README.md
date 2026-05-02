@@ -31,7 +31,7 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=6&cache_seconds=86400" />
 
 </td>
 </tr>
@@ -180,9 +180,7 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 <div align="center">
 
-<a href="https://github.com/bharat-dangi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=8" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharat-dangi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=444444&bg_color=ffffff&cache_seconds=86400" />&ensp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444444&bg_color=ffffff&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -192,47 +190,31 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 ## 📈 Contribution Activity
 
-<details open>
-<summary><b>📅 2026</b></summary>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=ffffff&color=0e75b6&line=0e75b6&point=FF6B35&area=true&area_color=0e75b6&hide_border=true&custom_title=2026%20Contributions&from=2026-01-01&to=2026-12-31" />
-</details>
-
-<details>
-<summary><b>📅 2025</b></summary>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=ffffff&color=0e75b6&line=0e75b6&point=FF6B35&area=true&area_color=0e75b6&hide_border=true&custom_title=2025%20Contributions&from=2025-01-01&to=2025-12-31" />
-</details>
-
-<details>
-<summary><b>📅 2024</b></summary>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=ffffff&color=0e75b6&line=0e75b6&point=FF6B35&area=true&area_color=0e75b6&hide_border=true&custom_title=2024%20Contributions&from=2024-01-01&to=2024-12-31" />
-</details>
-
-<details>
-<summary><b>📅 2023</b></summary>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dangi&bg_color=ffffff&color=0e75b6&line=0e75b6&point=FF6B35&area=true&area_color=0e75b6&hide_border=true&custom_title=2023%20Contributions&from=2023-01-01&to=2023-12-31" />
-</details>
-
-<br/>
-
 <div align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharat-dangi&theme=github" />&ensp;<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharat-dangi&theme=github&utcOffset=10" />
+
+<!-- Streak card: shows total contributions, current + longest streak with exact dates -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=dddddd&dates=888888&background=ffffff&sideLabels=0e75b6&currStreakNum=222222&sideNums=222222" />
+
 </div>
 
----
+<br/>
 
-<!-- ════════════════════════════════════════════════ TROPHIES ══ -->
-
-## 🏆 GitHub Trophies
+### Contributions by Year
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharat-dangi&no-frame=true&no-bg=true&margin-w=6&column=7&theme=flat" />
+
+| Year | Commits | PRs | Issues | Period |
+|:----:|:-------:|:---:|:------:|:------:|
+| **2026** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2026&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Present |
+| **2025** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2025&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+| **2024** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2024&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+| **2023** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2023&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+| **2022** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2022&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+| **2021** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2021&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+
 </div>
 
----
+
 
 <!-- ════════════════════════════════════════════════ SNAKE ══ -->
 
