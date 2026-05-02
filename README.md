@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Distributed+Systems+%C2%B7+Cloud+Architecture+%C2%B7+AI+Engineering;TypeScript+%C2%B7+C%23+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+Core;Building+enterprise+systems+that+actually+scale+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Distributed+Systems+%C2%B7+Cloud+Architecture+%C2%B7+AI+Engineering;TypeScript+%C2%B7+C%23+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+Core;Building+enterprise+systems+that+actually+scale+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -28,10 +28,6 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 <td valign="top" width="42%" align="center">
 
 <img src="https://streak-stats.demolab.com/?user=bharat-dangi&hide_border=true&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&stroke=0e75b6&dates=888&background=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dangi&layout=compact&hide_border=true&title_color=0e75b6&text_color=444&bg_color=ffffff&langs_count=6&cache_seconds=86400" />
 
 </td>
 </tr>
@@ -203,14 +199,16 @@ Currently pursuing an **MSc in IT (AI Specialisation)** — going deep on LLMs, 
 
 <div align="center">
 
-| Year | Commits | PRs | Issues | Period |
-|:----:|:-------:|:---:|:------:|:------:|
-| **2026** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2026&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Present |
-| **2025** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2025&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
-| **2024** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2024&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
-| **2023** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2023&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
-| **2022** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2022&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
-| **2021** | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fbharat-dangi%3Fy%3D2021&query=%24.total&label=&color=0e75b6&style=flat-square) | — | — | Jan – Dec |
+| Year | Period | Highlights |
+|:----:|:------:|:-----------|
+| 🟢 **2026** | Jan – Present | Arrow Transport · MSc AI projects · Freelance |
+| 🟢 **2025** | Jan – Dec | OneStop API Suite · Kendo/AG Grid upgrades · Produce.so |
+| 🟢 **2024** | Jan – Dec | Memory Companion Agent · Voice AI MVP · .NET Core migrations |
+| 🟡 **2023** | Jan – Dec | Produce.so SaaS build · BullMQ pipelines · GPU infra |
+| 🟡 **2022** | Jan – Dec | Port Pro microservices · Container tracking · Mapbox optimisation |
+| 🔵 **2021** | Jan – Dec | Early career · logistics platforms · full-stack foundations |
+
+> 📊 **7,222 total contributions** since Sep 2020 · **56-day longest streak** (Apr–Jun 2024)
 
 </div>
 
